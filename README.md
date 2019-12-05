@@ -1,6 +1,6 @@
-# eladmin-qt
+# cmd-admin
 
-eladmin 前端源码
+cmd-admin 前端源码
 
 #### 项目源码
 
