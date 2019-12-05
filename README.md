@@ -21,6 +21,9 @@ cmd-admin 前端源码
 ``` bash
 # 安装依赖
 npm install
+成功之后 安装node-sass
+cnpm 找不到请按照淘宝镜像  npm install -g cnpm --registry=https://registry.npm.taobao.org
+cnpm install node-sass
 
 # 启动服务 localhost:8013
 npm run dev
